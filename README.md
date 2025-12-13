@@ -3,7 +3,7 @@
 DreamSquad - Teste Técnico de Engenharia
 
 ## Descrição do Desafio
-Este projeto é a solução para o **Teste Técnico** proposto pela DreamSquad para a vaga de Engenharia (Cloud/DevOps).
+Este projeto é a solução para o **Teste Técnico** proposto pela empresa xxx para a vaga de Engenharia (Cloud/DevOps).
 
 O objetivo é demonstrar habilidades e competências técnicas relacionadas a **Cloud Computing** e **DevOps**, utilizando **Terraform** para provisionar recursos na AWS.
 
