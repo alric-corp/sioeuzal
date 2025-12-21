@@ -1,6 +1,6 @@
 # Desafio Técnico 1
 
-DreamSquad - Teste Técnico de Engenharia
+Teste Técnico de Engenharia
 
 ## Descrição do Desafio
 Este projeto é a solução para o **Teste Técnico** proposto pela empresa xxx para a vaga de Engenharia (Cloud/DevOps).
